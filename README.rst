@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpy-statistics.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpy-statistics?ref=badge_shield)
+
 ==============================================
 statistics - Mathematical statistics functions
 ==============================================
@@ -40,3 +42,7 @@ TODO
 ====
 
 Make a version for Python 3.0 -> 3.2 (http://pythonhosted.org//setuptools/python3.html)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flaurarvbd%2Fpy-statistics.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flaurarvbd%2Fpy-statistics?ref=badge_large)
